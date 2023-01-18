@@ -5,4 +5,11 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
 [AUTHOR:Wirrit]
 [NAME:Vitali-Bees]
-[DESCRIPTION: Good-biome bees with magic jelly (antiseptic), honey (weak regenerative), mead (strong tissue-only healing) and venom (painkiller, numbing agent).  Which are all also aphrodesiacs.  Have fun!]
+[DESCRIPTION: Rare magical bees known for their healing and other properties.]
+
+[STEAM_TITLE:Vitali-bees]
+[STEAM_DESCRIPTION:Good-biome bees with magic jelly (antiseptic), honey (weak regenerative), mead (strong tissue-only healing) and venom (painkiller, numbing agent).  Which are all also weak aphrodesiacs.  Have fun!]
+[STEAM_TAG:creature]
+[STEAM_METADATA:?metadata?]
+[STEAM_CHANGELOG: Third attempt to upload this, have I gotten it right?]
+[STEAM_FILE_ID:2919608715]
